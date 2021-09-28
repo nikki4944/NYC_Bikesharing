@@ -12,15 +12,15 @@ Using the provide dataset from the client, I was able to determine that the majo
 A further analysis utilizing gender information reinforced the average trip duration and showed the majority of users of the bikesharing service are male.
 <img width="982" alt="Screen Shot 2021-09-28 at 5 57 00 PM" src="https://user-images.githubusercontent.com/82982901/135171457-005de6f5-4b68-4520-9bd0-a4efdd8d4c4a.png">
 
-In order to get a clearer picture of when bike usage is highest, three heat maps were created.
+In order to get a clearer picture of when bike usage is highest, three heat maps were created:
 
-The first shows usage for all by all users of the app and indicates the most active times are weekends and weekday rush hours, 7:00am-9:00am and 5:00pm-7:00pm.
+* The first shows usage for all by all users of the app and indicates the most active times are weekends and weekday rush hours, 7:00am-9:00am and 5:00pm-7:00pm.
 <img width="1007" alt="Screen Shot 2021-09-28 at 6 00 55 PM" src="https://user-images.githubusercontent.com/82982901/135172039-d1a0a213-cb00-48a5-b378-4c78cc22647a.png">
 
-The second breaks the analysis down by gender and reiterates the earlier findings that the majority of users are male and the busiest times are weekends and rush hours.
+* The second breaks the analysis down by gender and reiterates the earlier findings that the majority of users are male and the busiest times are weekends and rush hours.
 <img width="1011" alt="Screen Shot 2021-09-28 at 6 01 31 PM" src="https://user-images.githubusercontent.com/82982901/135172174-e9f40c94-6c6c-4493-82df-cec032e19dce.png">
 
-The final image compared the data of one-time customers and subscribers to the service. The heatmap shows that the majority of users are regular subscribers and reiterated the previous gender and usage findings.
+* The final image compared the data of one-time customers and subscribers to the service. The heatmap shows that the majority of users are regular subscribers and reiterated the previous gender and usage findings.
 <img width="1022" alt="Screen Shot 2021-09-28 at 6 01 54 PM" src="https://user-images.githubusercontent.com/82982901/135172403-87a184a4-56d9-4eef-8cfe-4b8b74709917.png">
 
 The complete Tableau visualization story can be found [here](https://public.tableau.com/app/profile/nicole.marie.housekeeper/viz/BikesharingChallengeStory/BikesharingStory).
